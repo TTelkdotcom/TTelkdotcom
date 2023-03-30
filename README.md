@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Linus
-- 👀 I’m interested in web development and web design
-- 🌱 I’m currently learning PHP, Vue, Tailwind and AJAX
-- 🚧 I'm currently working on my personal blog and some as of now secret projects
-- 📫 You can reach me on Twitter @linusjklett
+- 🚧 I'm currently working on some still *SECRET* projects
+- 📫 You can *sometimes* reach me on Twitter @linusjklett
